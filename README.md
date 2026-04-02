@@ -26,6 +26,7 @@ Je m'appelle Daniel Bokingo, je suis étudiant en première année d'informatiqu
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E9431F?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
 </p>
 
 ---
