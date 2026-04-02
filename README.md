@@ -1,4 +1,4 @@
-# Daniel Bokingo
+
 <div align="center">
 
 <h1> Daniel Bokingo </h1>
