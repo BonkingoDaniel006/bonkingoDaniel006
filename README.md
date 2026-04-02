@@ -3,7 +3,7 @@
 
 <h1> Daniel Bokingo </h1>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=waka&height=120&section=header&text=Etudiant%20en%20Informatique&fontSize=50&fontColor=f5f5dc&animation=twinkle" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=waka&height=120&section=header&text=Etudiant%20en%20Informatique&fontSize=50&fontColor=3776AB&animation=twinkle" />
 
 > "Le code est un outil, la logique est une arme."
 
