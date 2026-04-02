@@ -1,4 +1,13 @@
 # Daniel Bokingo
+<div align="center">
+
+<h1> Daniel Bokingo </h1>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=waka&height=120&section=header&text=Etudiant%20en%20Informatique&fontSize=50&fontColor=ffffff&animation=twinkle" />
+
+> "Le code est un outil, la logique est une arme."
+
+</div>
 
 ## A propos
 Je m'appelle Daniel Bokingo, je suis étudiant en première année d'informatique. Passionné par le développement, j'aime concrétiser mes apprentissages à travers des projets personnels structurés et performants.
