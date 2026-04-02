@@ -1,14 +1,14 @@
-# <p align="center">🔴 Bienvenue sur mon profil GitHub 🔴</p>
+# <p align="center"> Bienvenue sur mon profil GitHub </p>
 
 
 
-## 👤 À propos de moi
+##  À propos de moi
 Je m'appelle **Daniel Bokingo**, je suis étudiant en première année d'informatique. 
 Passionné par le développement, j'aime concrétiser mes apprentissages à travers des **projets personnels** structurés et performants.
 
 ---
 
-## 🛠️ Compétences Techniques
+##  Compétences Techniques
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -23,7 +23,7 @@ Passionné par le développement, j'aime concrétiser mes apprentissages à trav
 
 ---
 
-## 🌀 En cours d'acquisition
+##  En cours d'acquisition
 <p align="left">
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
