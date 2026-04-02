@@ -41,7 +41,3 @@ Je m'appelle Daniel Bokingo, je suis étudiant en première année d'informatiqu
 
 ---
 
-## Activite GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=false&theme=transparent&hide_border=true" />
-</p>
