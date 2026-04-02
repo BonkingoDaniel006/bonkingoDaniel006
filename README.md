@@ -41,3 +41,9 @@ Je m'appelle Daniel Bokingo, je suis étudiant en première année d'informatiqu
 
 ---
 
+## Mes contributions
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonkingodaniel006&theme=react-dark" width="700" />
+</div>
+
+
