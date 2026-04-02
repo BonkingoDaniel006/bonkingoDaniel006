@@ -55,4 +55,14 @@ Je m'appelle Daniel Bokingo, je suis étudiant en première année d'informatiqu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonkingodaniel006&theme=react-dark" width="700" />
 </div>
 
+---
 
+## Contact et Projets
+<p align="left">
+  <a href="https://danielbokingoportfolio.onrender.com" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-3776AB?style=flat-square&logo=react&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/daniel-bokingo-024415357" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
