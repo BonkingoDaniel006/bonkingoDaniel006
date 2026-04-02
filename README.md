@@ -1,14 +1,11 @@
-# <p align="center"> Bienvenue sur mon profil GitHub </p>
+# Daniel Bokingo
 
-
-
-##  À propos de moi
-Je m'appelle **Daniel Bokingo**, je suis étudiant en première année d'informatique. 
-Passionné par le développement, j'aime concrétiser mes apprentissages à travers des **projets personnels** structurés et performants.
+## A propos
+Je m'appelle Daniel Bokingo, je suis étudiant en première année d'informatique. Passionné par le développement, j'aime concrétiser mes apprentissages à travers des projets personnels structurés et performants.
 
 ---
 
-##  Compétences Techniques
+## Competences Techniques
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" />
   <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -18,12 +15,13 @@ Passionné par le développement, j'aime concrétiser mes apprentissages à trav
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Deployment" src="https://img.shields.io/badge/-Deployment-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E9431F?style=flat-square&logo=ubuntu&logoColor=white" />
 </p>
 
 ---
 
-##  En cours d'acquisition
+## En cours d'acquisition
 <p align="left">
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -33,3 +31,17 @@ Passionné par le développement, j'aime concrétiser mes apprentissages à trav
 
 ---
 
+## Intelligence Artificielle et Productivite
+<p align="left">
+  <img alt="Gemini" src="https://img.shields.io/badge/-Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" />
+  <img alt="ChatGPT" src="https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="Claude" src="https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
+  <img alt="Copilot" src="https://img.shields.io/badge/-Copilot-8049DA?style=flat-square&logo=githubcopilot&logoColor=white" />
+</p>
+
+---
+
+## Activite GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=false&theme=transparent&hide_border=true" />
+</p>
