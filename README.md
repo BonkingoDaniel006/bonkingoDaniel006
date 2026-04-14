@@ -27,6 +27,7 @@ Je m'appelle Daniel Bokingo, je suis étudiant en première année d'informatiqu
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E9431F?style=flat-square&logo=ubuntu&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt="JWT" src="https://img.shields.io/badge/-JWT-d63aff?style=flat-square&logo=json-web-tokens&logoColor=white" />
 </p>
 
 ---
@@ -36,7 +37,7 @@ Je m'appelle Daniel Bokingo, je suis étudiant en première année d'informatiqu
   <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="JWT" src="https://img.shields.io/badge/-JWT-d63aff?style=flat-square&logo=json-web-tokens&logoColor=white" />
+  
 </p>
 
 ---
