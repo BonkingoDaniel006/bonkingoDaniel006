@@ -20,6 +20,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Symfony" src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" />
   <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Kivy" src="https://img.shields.io/badge/Kivy-4CAF50?style=flat-square&logo=kivy&logoColor=white" />
 </p>
