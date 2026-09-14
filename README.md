@@ -23,7 +23,7 @@
 
 <br />
 
-## ⚡ À propos
+##  À propos
 
 Étudiant en informatique et **développeur orienté solutions**, je me passionne pour l'architecture logicielle, la gestion de bases de données et les systèmes embarqués. 
 
