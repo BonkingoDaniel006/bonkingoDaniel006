@@ -23,7 +23,7 @@
 
 <br />
 
-##  À propos
+## 🚀 À propos
 
 Étudiant en informatique et **développeur orienté solutions**, je me passionne pour l'architecture logicielle, la gestion de bases de données et les systèmes embarqués. 
 
@@ -31,7 +31,7 @@ J'aime concevoir et déployer des projets techniques structurés, performants et
 
 ---
 
-##  Stack & Compétences
+## 🛠️ Stack & Compétences
 
 <table align="center" width="100%">
   <tr>
@@ -80,7 +80,7 @@ J'aime concevoir et déployer des projets techniques structurés, performants et
 
 ---
 
-##  En cours d'acquisition & Perfectionnement
+## 📚 En cours d'acquisition & Perfectionnement
 
 <p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
@@ -93,7 +93,7 @@ J'aime concevoir et déployer des projets techniques structurés, performants et
 
 ---
 
-##  IA & Productivité
+## 🤖 IA & Productivité
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gemini-8E75FF?style=flat-square&logo=googlegemini&logoColor=white" />
@@ -104,10 +104,17 @@ J'aime concevoir et déployer des projets techniques structurés, performants et
 
 ---
 
-##  Activité GitHub
+## 📊 Statistiques & Contributions GitHub
 
 <div align="center">
+  <!-- Graphique des contributions globales -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonkingodaniel006&theme=react-dark&hide_border=true&area=true" width="85%" />
+  
+  <br /><br />
+
+  <!-- Carte des statistiques de contributions + Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=bonkingodaniel006&show_icons=true&theme=react&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bonkingodaniel006&layout=compact&theme=react&hide_border=true" height="150" />
 </div>
 
 <br />
