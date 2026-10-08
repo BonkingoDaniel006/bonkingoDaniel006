@@ -107,7 +107,7 @@ J'aime concevoir et déployer des projets techniques structurés, performants et
 ## Contributions GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonkingodaniel006&theme=github-dark&area=true&hide_border=true" width="100%" alt="Courbe d'activité GitHub" />
+  <img src="https://ghchart.rshah.org/3776AB/bonkingodaniel006" alt="Calendrier des contributions GitHub" width="100%" />
 </div>
 
 <br />
