@@ -107,7 +107,7 @@ J'aime concevoir et déployer des projets techniques structurés, performants et
 ## Contributions GitHub
 
 <div align="center">
-  <img src="https://svg.quickchart.io/chart?bkg=transparent&c={type:'line',data:{labels:['Jan','Fev','Mar','Avr','Mai','Juin','Juil','Aout','Sep','Oct'],datasets:[{label:'Contributions',data:[12,28,45,30,65,80,55,90,110,135],borderColor:'%233776AB',backgroundColor:'rgba(55,118,171,0.2)',fill:true,pointRadius:4,pointBackgroundColor:'%233776AB'}]},options:{legend:{labels:{fontColor:'white'}},scales:{xAxes:[{gridLines:{color:'rgba(255,255,255,0.1)'},ticks:{fontColor:'white'}}],yAxes:[{gridLines:{color:'rgba(255,255,255,0.1)'},ticks:{fontColor:'white'}}]}}}" width="100%" alt="Courbe dynamique des contributions GitHub" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonkingodaniel006&theme=github-dark&area=true&hide_border=true" width="100%" alt="Courbe d'activité GitHub" />
 </div>
 
 <br />
