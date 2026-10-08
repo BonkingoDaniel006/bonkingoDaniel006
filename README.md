@@ -107,12 +107,5 @@ J'aime concevoir et déployer des projets techniques structurés, performants et
 ## Contributions GitHub
 
 <div align="center">
-  <!-- Calendrier dynamique des contributions au fil du temps -->
-  <img src="https://ghchart.rshah.org/3776AB/bonkingodaniel006" alt="Diagramme des contributions GitHub de Daniel Bokingo" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=100&section=footer" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bonkingodaniel006&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
